@@ -1,0 +1,83 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial /* Dựa theo yêu cầu của đề bài */;
+	font-size: 11pt /* Dựa theo yêu cầu của đề bài */;
+}
+
+#NoiDung {
+	width: 958px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+#DauTrang {
+	width: 958px;
+	height: 162px;
+	background: url(../images/banner.jpg) no-repeat /* Sử dụng hình có sẵn cho phù hợp */;
+}
+
+#GiuaTrang {
+	width: 958px;
+}
+
+#BenTrai {
+	width: 200px;
+}
+
+#BenTrai h2{
+	height: 30px;
+	margin: 0;
+	padding: 6px 0 0 0;
+	font-size: 16pt /* Dựa theo yêu cầu của đề bài */;
+	color: #272360;
+	
+}
+
+#BenTrai a:link {
+	color: #0065ff;
+	text-decoration: none;
+}
+#BenTrai a:link {
+	color: #fdad00;
+	text-decoration: none;
+}
+
+
+#BenTrai ul{
+	
+	margin: 0;
+	padding: 0px 0px 10px 0px;
+	list-style: none;
+	
+}
+
+#BenTrai ul li{
+	margin: 0;
+	padding-left: 18px;
+	background: url(../images/ul.gif) no-repeat /* Sử dụng hình có sẵn cho phù hợp */;
+	line-height: 150%;
+}
+
+#BenPhai {
+	width: 750px;
+}
+
+#BenPhai h2 {
+	margin: 0;
+	padding: 6px 0 6px 0;
+	font-size: 16pt/* Dựa theo yêu cầu của đề bài */;
+	color: #da1c06;
+}
+
+#BenPhai p {
+	padding-bottom: 6px;
+	text-align: justify;
+}
+
+#CuoiTrang {
+	height: 40px;
+	background: #1378c8;
+	text-align: center;
+	padding-top: 20px;
+}
